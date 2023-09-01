@@ -13,3 +13,4 @@ if [ -e "$zip_file" ]; then
 else
    echo "ZIP file not created"
 fi
+echo "Densons project"
