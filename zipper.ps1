@@ -1,4 +1,5 @@
 # Define the source files and the output zip file
+# Proj by Denson-Dev
 $sourceFiles = @(
     'E:\Folder to be zipped\Greetings.txt',
     'E:\Folder to be zipped\Introduction.txt'
