@@ -5,7 +5,7 @@ $sourceFiles = @(
     'E:\Folder to be zipped\Introduction.txt'
 )
 
-$zipFilePath = 'E:\Zipped file.zip'
+$zipFilePath = 'E:\Zipped file.zip' # ur folder name 
 
 # Create a new zip archive and add files
 Add-Type -AssemblyName System.IO.Compression.FileSystem
